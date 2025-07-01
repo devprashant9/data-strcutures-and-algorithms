@@ -9,4 +9,9 @@ Recursion
         |_ Reverse a Given Array
         |_ Check a String is Palindrome
         |_ Fibonacci Series, Multiple Ways
+
+Hashing
+        |_ Finding Frequency of Each Number For q Queries
+        |_ Finding Frequency of Each Character For q Queries
+        |_ Using HashMap to Optimize Space
 </pre>
