@@ -15,3 +15,11 @@ Hashing
         |_ Finding Frequency of Each Character For q Queries
         |_ Using HashMap to Optimize Space
 </pre>
+
+## 02-07-2025
+<pre>
+Sorting 
+        |_ Selection Sort
+        |_ Bubble Sort
+        |_ Insertion Sort
+</pre>
