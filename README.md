@@ -23,3 +23,12 @@ Sorting
         |_ Bubble Sort
         |_ Insertion Sort
 </pre>
+
+## 03-07-2025
+<pre>
+Sorting 
+        |_ Merge Sort
+        |_ Quick Sort
+        |_ Bubble Sort Recursive
+        |_ Insertion Sort Recursive
+</pre>
