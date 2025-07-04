@@ -32,3 +32,20 @@ Sorting
         |_ Bubble Sort Recursive
         |_ Insertion Sort Recursive
 </pre>
+
+## 04-07-2025
+<pre>
+Arrays 
+        |_ Largest Element in an Array
+        |_ Second Largest Element in an Array
+        |_ Second Smallest Element in an Array
+        |_ Check Array is Sorted or Not
+        |_ Remove Duplicates From an Array
+        |_ Left Rotate an Array by 1 Place
+        |_ Left Rotate an Array by D Places
+        |_ Right Rotate an Array by D Places
+        |_ Move All Zeroes to End in an Array
+        |_ Linear Search in an Array
+        |_ Find Union From Two Sorted Arrays
+        |_ Find Intersection From Two Sorted Arrays
+</pre>
