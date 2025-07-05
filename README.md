@@ -49,3 +49,14 @@ Arrays
         |_ Find Union From Two Sorted Arrays
         |_ Find Intersection From Two Sorted Arrays
 </pre>
+
+## 05-07-2025
+<pre>
+Arrays
+        |_ Revision Arrays Problem
+        |_ Find the Missing Number in an Array
+        |_ Maximum Consecutive 1's
+        |_ Find the Number That Appeared Once and All Other Twice
+        |_ Sub Array With Given Sum K (Positives)
+        |_ Sub Array With Given Sum K (Positives + Negatives)
+</pre>
