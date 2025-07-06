@@ -60,3 +60,14 @@ Arrays
         |_ Sub Array With Given Sum K (Positives)
         |_ Sub Array With Given Sum K (Positives + Negatives)
 </pre>
+
+## 06-07-2025
+<pre>
+Arrays  
+        |_ Two Sum Problem (2 Varities)
+        |_ Sort Array Containing 0's, 1's and 2's (Dutch National Flag Algorithm)
+        |_ Majority Element Occurring Appearing Greater Than N/2 Times (Moore's Voting Algorithm)
+        |_ Maximum Sub Array Sum (Kadane's Algorithm)
+        |_ Best Time to Buy and Sell Stock
+        |_ Re-Arrange Array Elements by Positive and Negative Sign (2 Varities)
+</pre>
