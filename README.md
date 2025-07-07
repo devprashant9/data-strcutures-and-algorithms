@@ -71,3 +71,11 @@ Arrays
         |_ Best Time to Buy and Sell Stock
         |_ Re-Arrange Array Elements by Positive and Negative Sign (2 Varities)
 </pre>
+
+## 07-07-2025
+<pre>
+Arrays
+        |_ Find Next Permutation
+        |_ Leaders in Array
+        |_ Longest Consecutive Sequence
+</pre>
