@@ -79,3 +79,12 @@ Arrays
         |_ Leaders in Array
         |_ Longest Consecutive Sequence
 </pre>
+
+## 08-07-2025
+<pre>
+Arrays
+        |_ Set Matrix Zeroes
+        |_ Rotate Matrix by 90 Degrees
+        |_ Spiral Traversal of Matrix
+        |_ Count Sub Array Sum Equals K
+</pre>
