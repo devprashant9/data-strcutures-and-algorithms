@@ -88,3 +88,12 @@ Arrays
         |_ Spiral Traversal of Matrix
         |_ Count Sub Array Sum Equals K
 </pre>
+
+## 09-07-2025
+<pre>
+Arrays
+        |_ Pascals Triangle (3 Varities)
+        |_ Majority Element Appearing > N/3 Times
+        |_ 3 Sum Problem
+        |_ 4 Sum Problem
+</pre>
