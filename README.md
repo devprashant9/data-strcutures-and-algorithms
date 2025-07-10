@@ -97,3 +97,12 @@ Arrays
         |_ 3 Sum Problem
         |_ 4 Sum Problem
 </pre>
+
+## 10-07-2025
+<pre>
+Arrays
+        |_ Count Number of Sub Arrays With XOR Equals K
+        |_ Merge Overlapping Intervals
+        |_ Merge Sorted Arrays Without Extra Space
+        |_ Find Missing and Repeating Number
+</pre>
