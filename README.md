@@ -106,3 +106,11 @@ Arrays
         |_ Merge Sorted Arrays Without Extra Space
         |_ Find Missing and Repeating Number
 </pre>
+
+## 11-07-2025
+<pre>
+Arrays
+        |_ Count Iversion in an Array
+        |_ Count Reverse Pairs in an Array
+        |_ Maximum Product Sub Array
+</pre>
