@@ -114,3 +114,14 @@ Arrays
         |_ Count Reverse Pairs in an Array
         |_ Maximum Product Sub Array
 </pre>
+
+## 12-07-2025
+<pre>
+Binary Search
+        |_ Binary Search on an Array
+        |_ Implement Lower Bound (arr[i] > X )
+        |_ Implement Upper Bound (arr[i] >= X )
+        |_ Search Insert Position
+        |_ Find Floor Value in a Sorted Array For a Given X
+        |_ Find Ceil Value in a Sorted Array For a Given X
+</pre>
