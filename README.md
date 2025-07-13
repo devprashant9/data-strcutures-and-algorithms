@@ -125,3 +125,11 @@ Binary Search
         |_ Find Floor Value in a Sorted Array For a Given X
         |_ Find Ceil Value in a Sorted Array For a Given X
 </pre>
+
+## 13-07-2025
+<pre>
+Binary Search
+        |_ First and Last Occurrence of a Given Number
+        |_ Count Occurrence of a Number in a Sorted Array (Duplicate Array Elements)
+        |_ Search in Sorted Rotated Array (Unique Array Elements)
+</pre>
