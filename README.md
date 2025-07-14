@@ -133,3 +133,11 @@ Binary Search
         |_ Count Occurrence of a Number in a Sorted Array (Duplicate Array Elements)
         |_ Search in Sorted Rotated Array (Unique Array Elements)
 </pre>
+
+## 14-07-2025
+<pre>
+Binary Search
+        |_ Search in Sorted Rotated Array (Duplicate Array Elements)
+        |_ Minimum in Sorted Rotated Array (Unique Array Elements)
+        |_ Find Number of Times Array Has Been Rotated
+</pre>
