@@ -141,3 +141,11 @@ Binary Search
         |_ Minimum in Sorted Rotated Array (Unique Array Elements)
         |_ Find Number of Times Array Has Been Rotated
 </pre>
+
+## 15-07-2025
+<pre>
+Binary Search
+        |_ Single Element in Sorted Array
+        |_ Find the Peak Element in Array
+        |_ Square Root of a Number Using Binary Search
+</pre>
