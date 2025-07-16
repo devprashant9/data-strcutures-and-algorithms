@@ -149,3 +149,11 @@ Binary Search
         |_ Find the Peak Element in Array
         |_ Square Root of a Number Using Binary Search
 </pre>
+
+## 16-07-2025
+<pre>
+Binary Search
+        |_ Find the N-th Root of a Number
+        |_ KoKo Eating Bananas
+        |_ Minimum Days to Make M Boquets
+</pre>
