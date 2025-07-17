@@ -157,3 +157,11 @@ Binary Search
         |_ KoKo Eating Bananas
         |_ Minimum Days to Make M Boquets
 </pre>
+
+## 17-07-2025
+<pre>
+Binary Search
+        |_ Find the Smallest Divisor Given a Threshold
+        |_ Capacity to Ship Package Within D Days
+        |_ K-th Missing Positive Number
+</pre>
