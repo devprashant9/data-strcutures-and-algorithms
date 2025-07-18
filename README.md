@@ -165,3 +165,12 @@ Binary Search
         |_ Capacity to Ship Package Within D Days
         |_ K-th Missing Positive Number
 </pre>
+
+## 18-08-2025
+<pre>
+Binary Search
+        |_ Aggresive Cows Problem
+        |_ Book Allocation Problem
+        |_ Painters Parition Problem
+        |_ Split Array Largest Sum Problem
+</pre>
