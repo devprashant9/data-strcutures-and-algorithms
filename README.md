@@ -182,3 +182,11 @@ Strings
         |_ FizzBuzz
         |_ Longest Repeating Character Replacement
 </pre>
+
+## 20-09-2025
+<pre>
+Strings
+        |_ Generate All Substring From a Given String
+        |_ Generate All Subsequence From a Given String
+        |_ Generate All Permuttaion From a Given String
+</pre>
