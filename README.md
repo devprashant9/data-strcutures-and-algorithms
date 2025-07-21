@@ -166,7 +166,7 @@ Binary Search
         |_ K-th Missing Positive Number
 </pre>
 
-## 18-08-2025
+## 18-07-2025
 <pre>
 Binary Search
         |_ Aggresive Cows Problem
@@ -175,7 +175,7 @@ Binary Search
         |_ Split Array Largest Sum Problem
 </pre>
 
-## 19-09-2025
+## 19-07-2025
 <pre>
 Strings
         |_ Longest Common Prefix
@@ -183,10 +183,18 @@ Strings
         |_ Longest Repeating Character Replacement
 </pre>
 
-## 20-09-2025
+## 20-07-2025
 <pre>
 Strings
         |_ Generate All Substring From a Given String
         |_ Generate All Subsequence From a Given String
         |_ Generate All Permuttaion From a Given String
+</pre>
+
+## 21-07-2025
+<pre>
+Strings
+        |_ Largest Odd Number in a String
+        |_ Remove Outermost Parentheses
+        |_ Reverse Words in a String
 </pre>
