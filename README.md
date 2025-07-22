@@ -198,3 +198,10 @@ Strings
         |_ Remove Outermost Parentheses
         |_ Reverse Words in a String
 </pre>
+
+## 22-07-2025
+<pre>
+Strings
+        |_ Longest Substring Without Repeating Characters
+        |_ Valid Anagram
+</pre>
