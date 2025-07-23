@@ -205,3 +205,11 @@ Strings
         |_ Longest Substring Without Repeating Characters
         |_ Valid Anagram
 </pre>
+
+## 23-07-2025
+<pre>
+Strings
+        |_ Valid Parentheses
+        |_ Valid Palindrome
+        |_ Longest Plaindromic Substring
+</pre>
