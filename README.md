@@ -223,3 +223,17 @@ Singly Linked List
         |_ Insert a Node at K-th Index
         |_ Insert a Node Before a Given Value
 </pre>
+
+## 25-08-2025
+<pre>
+Singly Linked List
+        |_ Delete a Node At Head
+        |_ Delete a Node At Tail
+        |_ Delete a Node at K-th Index
+        |_ Delete a Node By Given Value
+
+Doubly Linked List
+        |_ Insert a Node At Head
+        |_ Insert a Node At Tail
+        |_ Insert a Node at K-th Index
+</pre>
