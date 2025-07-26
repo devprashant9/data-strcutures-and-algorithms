@@ -237,3 +237,15 @@ Doubly Linked List
         |_ Insert a Node At Tail
         |_ Insert a Node at K-th Index
 </pre>
+
+## 26-08-2025
+<pre>
+Doubly Linked List
+        |_ Delete a Node At Head
+        |_ Delete a Node At Tail
+        |_ Delete a Node at K-th Index
+        |_ Delete a Node By Given Value
+
+Revision
+        |_ Singly Linked List
+</pre>
