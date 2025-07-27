@@ -249,3 +249,11 @@ Doubly Linked List
 Revision
         |_ Singly Linked List
 </pre>
+
+## 27-08-2025
+<pre>
+Linked List
+        |_ Add Numbers For Two Given Singly Linked List
+        |_ Reverse Given Doubly Linked List
+        |_ Even Odd For Singly Linked List
+</pre>
