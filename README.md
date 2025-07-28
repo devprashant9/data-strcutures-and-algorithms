@@ -257,3 +257,11 @@ Linked List
         |_ Reverse Given Doubly Linked List
         |_ Even Odd For Singly Linked List
 </pre>
+
+## 28-08-2025
+<pre>
+Linked List
+        |_ Sort Linked List With 0's, 1's and 2's
+        |_ Remove N-th Node From Linked List
+        |_ Reverse a Singly Linked List
+</pre>
