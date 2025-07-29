@@ -214,7 +214,7 @@ Strings
         |_ Longest Plaindromic Substring
 </pre>
 
-## 24-08-2025
+## 24-07-2025
 <pre>
 Singly Linked List
         |_ Singly Linked List Implementation From Array
@@ -224,7 +224,7 @@ Singly Linked List
         |_ Insert a Node Before a Given Value
 </pre>
 
-## 25-08-2025
+## 25-07-2025
 <pre>
 Singly Linked List
         |_ Delete a Node At Head
@@ -238,7 +238,7 @@ Doubly Linked List
         |_ Insert a Node at K-th Index
 </pre>
 
-## 26-08-2025
+## 26-07-2025
 <pre>
 Doubly Linked List
         |_ Delete a Node At Head
@@ -250,7 +250,7 @@ Revision
         |_ Singly Linked List
 </pre>
 
-## 27-08-2025
+## 27-07-2025
 <pre>
 Linked List
         |_ Add Numbers For Two Given Singly Linked List
@@ -258,10 +258,17 @@ Linked List
         |_ Even Odd For Singly Linked List
 </pre>
 
-## 28-08-2025
+## 28-07-2025
 <pre>
 Linked List
         |_ Sort Linked List With 0's, 1's and 2's
         |_ Remove N-th Node From Linked List
         |_ Reverse a Singly Linked List
+</pre>
+
+## 29-07-2025
+<pre>
+Linked List
+        |_ Check Whether a Linked List is Palindrome
+        |_ Add 1 to a Given Linked List
 </pre>
