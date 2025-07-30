@@ -272,3 +272,10 @@ Linked List
         |_ Check Whether a Linked List is Palindrome
         |_ Add 1 to a Given Linked List
 </pre>
+
+## 30-07-2025
+<pre>
+Linked List
+        |_ Intersection Point of Y Linked List
+        |_ Find the Middle of the Linked List
+</pre>
