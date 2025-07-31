@@ -279,3 +279,10 @@ Linked List
         |_ Intersection Point of Y Linked List
         |_ Find the Middle of the Linked List
 </pre>
+
+## 31-07-2025
+<pre>
+Linked List
+        |_ Detecting a Loop in Linked List
+        |_ Length of a Loop in Linked List
+</pre>
