@@ -286,3 +286,10 @@ Linked List
         |_ Detecting a Loop in Linked List
         |_ Length of a Loop in Linked List
 </pre>
+
+## 01-08-2025
+<pre>
+Linked List
+        |_ Delete Middle Node in Linked List
+        |_ Find the Starting Node in a Loop
+</pre>
