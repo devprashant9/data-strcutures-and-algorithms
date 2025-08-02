@@ -293,3 +293,10 @@ Linked List
         |_ Delete Middle Node in Linked List
         |_ Find the Starting Node in a Loop
 </pre>
+
+## 02-08-2025
+<pre>
+Linked List
+        |_ Delete All Occurrences of a Given Key in Doubly Linked List
+        |_ Find Pairs With Given Sum in a Doubly Linked List
+</pre>
