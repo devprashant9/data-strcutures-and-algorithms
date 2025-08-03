@@ -300,3 +300,11 @@ Linked List
         |_ Delete All Occurrences of a Given Key in Doubly Linked List
         |_ Find Pairs With Given Sum in a Doubly Linked List
 </pre>
+
+## 03-08-2025
+<pre>
+Backtracking
+        |_ Find Subsets for a Given String
+        |_ Find Permutations of a Given String
+        |_ Print All Solutions of N-Queen
+</pre>
