@@ -308,3 +308,11 @@ Backtracking
         |_ Find Permutations of a Given String
         |_ Print All Solutions of N-Queen
 </pre>
+
+## 04-08-2025
+<pre>
+Backtracking
+        |_ Grid Ways Problem
+        |_ Sudoku Solver
+        |_ Palindrome Partitioning
+</pre>
