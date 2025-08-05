@@ -316,3 +316,11 @@ Backtracking
         |_ Sudoku Solver
         |_ Palindrome Partitioning
 </pre>
+
+## 05-08-2025
+<pre>
+Backtracking
+        |_ Finding K-th Permutation in a Sequence
+        |_ Combination Sum I
+        |_ Combination Sum II
+</pre>
