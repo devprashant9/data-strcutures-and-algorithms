@@ -324,3 +324,10 @@ Backtracking
         |_ Combination Sum I
         |_ Combination Sum II
 </pre>
+
+## 06-08-2025
+<pre>
+Heaps
+        |_ Implementation of Heap Data Structure
+        |_ Understanding the Comparable Interface in Java
+</pre>
