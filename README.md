@@ -331,3 +331,10 @@ Heaps
         |_ Implementation of Heap Data Structure
         |_ Understanding the Comparable Interface in Java
 </pre>
+
+## 07-08-2025
+<pre>
+Heaps
+        |_ Nearby K Cars
+        |_ Connect N Ropes
+</pre>
