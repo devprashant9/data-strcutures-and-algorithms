@@ -338,3 +338,10 @@ Heaps
         |_ Nearby K Cars
         |_ Connect N Ropes
 </pre>
+
+## 08-08-2025
+<pre>
+Heaps
+        |_ Weakest Soldier
+        |_ Sliding Window Maximum
+</pre>
