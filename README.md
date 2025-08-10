@@ -345,3 +345,17 @@ Heaps
         |_ Weakest Soldier
         |_ Sliding Window Maximum
 </pre>
+
+## 09-08-2025
+<pre>
+Stack
+        |_ Implement Stack Using Array
+        |_ Check for Valid Parentheses
+</pre>
+
+# 10-08-2025
+<pre>
+Stack
+        |_ Infix to Postfix Conversion
+        |_ Infix to Prefix Conversion
+</pre>
