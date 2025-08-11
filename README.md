@@ -359,3 +359,10 @@ Stack
         |_ Infix to Postfix Conversion
         |_ Infix to Prefix Conversion
 </pre>
+
+# 11-08-2025
+<pre>
+Stack
+        |_ Postfix to Infix Conversion
+        |_ Prefix to Infix Conversion
+</pre>
