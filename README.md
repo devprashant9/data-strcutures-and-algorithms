@@ -373,3 +373,10 @@ Stack
         |_ Postfix to Prefix Conversion
         |_ Prefix to Postfix Conversion
 </pre>
+
+## 13-08-2025
+<pre>
+Stack
+        |_ Implement a Min Stack
+        |_ Next Greater Element I
+</pre>
